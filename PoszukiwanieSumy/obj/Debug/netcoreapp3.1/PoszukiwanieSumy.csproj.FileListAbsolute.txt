@@ -1,0 +1,13 @@
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.exe
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.deps.json
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.runtimeconfig.json
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.runtimeconfig.dev.json
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.dll
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\bin\Debug\netcoreapp3.1\PoszukiwanieSumy.pdb
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.csprojAssemblyReference.cache
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.AssemblyInfoInputs.cache
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.AssemblyInfo.cs
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.csproj.CoreCompileInputs.cache
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.dll
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.pdb
+D:\Kamizelich\5. Poszukiwanie sumy\PoszukiwanieSumy\PoszukiwanieSumy\obj\Debug\netcoreapp3.1\PoszukiwanieSumy.genruntimeconfig.cache
